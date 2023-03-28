@@ -1,6 +1,7 @@
 # Installing AdvancedEnchantments API in Local Maven Repository
 This is a guide on how to make API for AdvancedEnchantments coded by GC from AdvancedPlugins working in Maven
-**I'M NOT AN OFFICIAL DEVELOPER FOR ADVANCEDENCHANTMENTS**
+
+# I'M NOT AN OFFICIAL DEVELOPER FOR ADVANCEDENCHANTMENTS
 
 ## Steps
 
